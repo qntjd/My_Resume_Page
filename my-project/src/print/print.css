@@ -1,0 +1,14 @@
+@media print {
+  .no-print {
+    display: none;
+  }
+
+  body {
+    background: white;
+  }
+
+  #resume {
+    width: 210mm;
+    padding: 20mm;
+  }
+}
